@@ -1,1 +1,1 @@
-Testing basic Express functionalities
+Testing basic Express Handlebars functionalities
